@@ -17,8 +17,6 @@ Estou construindo projetos para desenvolver habilidades reais de mercado e cresc
 
 ## 🛠 Tecnologias e Ferramentas
 
-## 🛠 Tecnologias e Ferramentas
-
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Java" height="45" width="55"
