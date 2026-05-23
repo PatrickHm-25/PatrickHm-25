@@ -38,8 +38,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ## 📌 Projetos em destaque
 
-🔹 Agente de IA
-🔹 Conversor de moedas  
+🔹 Agente de IA para atendimento médico  
+🔹 Conversor de moedas em tempo real  
 🔹 Sistema de amigo secreto  
 🔹 Projetos de lógica em Java  
 🔹 Aplicações Web com HTML/CSS/JavaScript
