@@ -1,5 +1,5 @@
-# Olá! Eu sou o Patrick 👋
-
+<h1 align="center">Olá 👋 Eu sou Patrick</h1>
+<p align="center">
 💻 Desenvolvedor Back-end em formação apaixonado por tecnologia e resolução de problemas.
 
 Atualmente estou focado em:
@@ -18,19 +18,19 @@ Estou construindo projetos para desenvolver habilidades reais de mercado e cresc
 ## 🛠 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50"
+  <img align="center" alt="Java" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <img align="center" alt="Spring" height="40" width="50"
+  <img align="center" alt="Spring" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
-  <img align="center" alt="MySQL" height="40" width="50"
+  <img align="center" alt="MySQL" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img align="center" alt="Git" height="40" width="50"
+  <img align="center" alt="Git" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="center" alt="GitHub" height="40" width="50"
+  <img align="center" alt="GitHub" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
@@ -50,3 +50,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 - LinkedIn: (https://www.linkedin.com/in/patrick-medeiros/)
 - Email: (patrick.medeirosf@gmail.com
+</p>
